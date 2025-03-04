@@ -1,6 +1,5 @@
 name: model_training_pipeline
 
-
 on:
   schedule:
     - cron: '0 0 * * 1' # Runs every monday
